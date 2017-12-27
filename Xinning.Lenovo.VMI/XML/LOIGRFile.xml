@@ -1,0 +1,22 @@
+<DATA>
+<RECEIPT> 
+         <TPL_RECEIPT_ID Value="RID"/>
+         <TIME_ZONE Value="GMT-07:00"/>
+         <SUPPLIER_ID Value="Hynix" />
+     	   <SHIP_TO_ID Value="LIPC" />
+       	<RECEIPT_DATE Value="05/07/2007 00:00:05"/>                           
+   <RECEIPT_LINE_ITEMS>
+          <RECEIPT_LINE_ITEM>                                    
+                  <TPL_RECEIPT_LINE_ID Value="RID"/>
+                  <ITEM_ID Value="S-CF22-1" />
+                  <INVOICE_NUMBER Value ="INVOICE0001"/>
+    	 	      <DEST_STORAGE_LOCATION Value ="FOT1"/>
+                  <PO_NUMBER Value ="45000001"/>
+                  <PO_LINE_ID Value ="10"/>
+                  <GR_TYPE Value ="1"/>
+                  <QTY Value="75" />
+                  <HAWB Value="1234567"/>
+           </RECEIPT_LINE_ITEM>
+       </RECEIPT_LINE_ITEMS>
+   </RECEIPT>
+</DATA>

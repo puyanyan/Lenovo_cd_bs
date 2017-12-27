@@ -1,0 +1,24 @@
+<DATA>
+     <PULL>
+<PULL_ID Value="p1"/>
+<TIME_ZONE Value="GMT-07:00"/>
+<CREATION_DATE Value="06/22/2004 00:00:05"/> 
+<SHIP_TO_ID Value="LIPC" />
+<DELIVERY_DATE Value="05/06/2004 00:00:05" />
+<IS_SOI Value ="Y"/>
+<DEST_STORAGE_LOCATION Value ="FOT1"/>
+<PULL_TYPE Value="NORMAL" />
+          <PULL_LINE_ITEMS>
+               <PULL_LINE_ITEM>
+                      	<SUPPLIER_ID Value="Saturn" />
+                        <SUPPLIER_DESC Value="Saturn" />
+                         <PULL_LINE_ID Value="2504" />
+                          <ITEM_ID Value="S-CF22-1" />
+                         <ITEM_DESC Value="SPEED" />
+		      		            <SOURCE_STORAGE_LOCATION Value ="FOT1"/>
+                         <QTY Value="75" />"
+	            </PULL_LINE_ITEM>
+           </PULL_LINE_ITEMS>
+     </PULL>
+  
+</DATA>

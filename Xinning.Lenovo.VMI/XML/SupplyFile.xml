@@ -1,0 +1,12 @@
+<DATA>
+  <BUFFER> 
+<ITEM_ID Value="2323232"/>
+<TIME_ZONE Value="GMT +8:00"/>
+<ITEM_DESC Value="MONITOR"/>
+<SUPPLIER_ID Value="Hynix" />
+<SUPPLIER_DESC Value="Hynix Corp" />
+<SHIP_TO_ID Value="LIPC" />
+<INSPECTION_TYPE Value="Y" />
+<STATUS Value="INSERT||DELETE||UPDATE" />
+  </BUFFER >
+</DATA>

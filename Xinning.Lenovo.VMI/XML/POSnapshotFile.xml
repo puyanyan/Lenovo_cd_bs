@@ -1,0 +1,20 @@
+<DATA>
+<PO> 
+     <PO_ID Value="RID"/>
+     <TIME_ZONE Value="GMT-07:00"/>
+    <SUPPLIER_ID Value="Hynix" />
+    <SHIP_TO_ID Value="LIPC" />
+    <CREATE_DATE Value="05/07/2007 00:00:05"/> 
+    <START_DATE Value="05/07/2007 00:00:05"/>                           
+    <END_DATE Value="05/08/2007 00:00:05"/>                           
+    <PO_LINE_ITEMS>
+           <PO_LINE_ITEM>                                    
+                    <PO_LINE_ID Value="2504" />
+                     <ITEM_ID Value="S-CF22-1" />
+                    <QTY Value="75" />
+                    <OPEN_QTY Value="25" />
+                     <ITEM_CATEGORY Value="" />
+          </PO_LINE_ITEM>
+   	</PO_LINE_ITEMS>
+              </PO>
+</DATA>

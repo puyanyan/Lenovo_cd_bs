@@ -1,0 +1,17 @@
+<RESPONSE>
+  <CONTROL_FILE Value="BAX.20070701153001.1111.ctl">
+    <TIME_ZONE Value="GMT-07:00"/>
+    <RESPONSE Code="x">
+      <DESCRIPTION>xxx</DESCRIPTION>
+    </RESPONSE>
+  </CONTROL_FILE>
+
+  <DATA_FILES>
+    <DATA_FILE Name="xxxx.dat" DataType="xxxx">
+      <RESPONSE Code="x">
+        <DESCRIPTION>xxx</DESCRIPTION>
+        <LINE_RESPONSES/>
+      </RESPONSE>
+    </DATA_FILE>
+  </DATA_FILES>
+</RESPONSE>

@@ -1,0 +1,10 @@
+ <DATA>
+     <INVENTORY> 
+        <SUPPLIER_ID Value="Hynix" />
+        <SHIP_TO_ID Value="LIPC" />
+        <ITEM_ID Value="S-CF22-1" />
+        <STATUS Value="A/Q/B"/>                           
+        <STORAGE_LOCATION Value=""/>                           
+        <QTY Value="75" />
+     </INVENTORY>
+</DATA>

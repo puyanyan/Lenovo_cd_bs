@@ -1,0 +1,18 @@
+ <DATA>
+      <SHIPMENT> 
+            <PULL_ID Value="P1" />
+            <TIME_ZONE Value="GMT-07:00"/>
+	          <SHIP_TO_ID Value="LIPC" />
+        		<SHIPPED_DATE Value="05/07/2007 00:00:05"/>
+            <SHIPMENT_LINE_ITEMS>
+               <SHIPMENT_LINE_ITEM>
+            <PULL_LINE_ID Value="2504" />
+            <ITEM_ID Value="S-CF22-1" />
+            <SUPPLIER_ID Value="Hynix" />
+            <SHIP_FROM_ID Value="2306" />
+            <SOURCE_STORAGE_LOCATION Value="FOT1"/>
+            <QTY Value="75" />
+               </SHIPMENT_LINE_ITEM>
+            </SHIPMENT_LINE_ITEMS>
+      </SHIPMENT>
+</DATA>
